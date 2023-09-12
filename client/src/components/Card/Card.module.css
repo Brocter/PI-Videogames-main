@@ -1,0 +1,48 @@
+.cardContainer{
+    width: 242px;
+    height: 245px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #0000b8;
+    margin: 60px 0;
+    border-radius: 20px;
+}
+
+
+.textContainer{
+    display: flex;
+    color: #F5F5F5;
+    flex-direction: column;
+    font-family: "Nunito", sans-serif;
+    height: 79px;
+    width: 233px;
+    padding-left: 10px;
+}
+
+.textContainer h3{
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: -0.36px;
+    margin-bottom: 0;
+}
+
+.textContainer p{
+    margin-top: 5px;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; 
+    letter-spacing: -0.3px;
+}
+
+.cardContainer img{
+    position: absolute;
+}
+
+.link {
+    width: 242px;
+    height: 245px;
+}

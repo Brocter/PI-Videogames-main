@@ -1,0 +1,120 @@
+.container{
+    margin-top: 40px;
+    margin-left:20px;
+    margin-right: 0;
+    background-image: url("../../assets/createGame.svg");
+    background-size: cover;
+    width: 1100px;
+    height: 600px;
+    display: flex;
+}
+.title{
+    position: absolute;
+    top: 310px;
+    left: 70px;
+    background-color: #76EF20;
+    border: none;
+    outline: none;
+    height: 35px;
+    width: 150px;
+
+}
+
+.title:focus{
+border-color: #76EF20;
+}
+
+.uploadImg{
+    position: absolute;
+    top: 492px;
+    left: 70px;
+    background-color: #76EF20;
+    border: none;
+    outline: none;
+    height: 35px;
+    width: 150px;
+}
+
+.uploadImg:focus{
+    border-color: #76EF20;
+}
+
+.descripcionGame{
+    position: absolute;
+    top: 500px;
+    left: 380px;
+    background-color: #76EF20;
+    border: none;
+    outline: none;
+    height: 120px;
+    width: 350px;
+}
+
+.descripcionGame:focus{
+    border-color: #76EF20;
+}
+
+.plataformasCreate{
+    height: 50px;
+    width: 300px;
+    position: absolute;
+    top: 390px;
+    left: 380px;
+    background: #76EF20;
+    border: none;
+    opacity: 80%;
+}
+
+.fecha{
+   position: absolute;
+    top: 400px;
+    left: 70px;
+    background-color: #76EF20;
+    border: none;
+    outline: none;
+    height: 35px;
+    width: 150px;
+}
+
+.rateado{
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 580px;
+    left: 70px;
+    background: #76EF20;
+    border: none;
+    opacity: 80%;
+    outline: none;
+}
+.genresCreate{
+   
+    height: 50px;
+    width: 300px;
+    position: absolute;
+    top: 300px;
+    left: 380px;
+    background: #76EF20;
+    border: none;
+    opacity: 80%;
+
+
+}
+
+.submitButt{
+    position: absolute;
+    top: 690px;
+    left: 255px;
+    width: 125px;
+    height: 55px;
+    background-color: transparent;
+    z-index: 1; 
+    outline: none;
+}
+
+.submitButt:focus{
+    border-color: #F24E1E;
+}
+
+
+

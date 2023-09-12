@@ -1,0 +1,48 @@
+.container{
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../../assets/searchFilter.svg");
+    background-size: cover;
+    width: 871px;
+    height: 89px;
+}
+
+.oGenre{
+    width: 74px;
+    height: 37px;
+    position: absolute;
+    top: 205px;
+    left: 615px;
+    background: transparent;
+    border: none;
+    opacity: 0%;
+}
+
+.abc{
+    width: 74px;
+    height: 37px;
+    position: absolute;
+    top: 205px;
+    left: 775px;
+    background: transparent;
+    border: none;
+    opacity: 0%;
+}
+
+.rating{
+    width: 74px;
+    height: 37px;
+    position: absolute;
+    top: 205px;
+    left: 970px;
+    background: transparent;
+    border: none;
+    opacity: 0%;
+}
+
+.bottonCrear{
+    position: absolute;
+    top: 180px;
+    left: 100px;
+}

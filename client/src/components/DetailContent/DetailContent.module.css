@@ -1,0 +1,63 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items:start;
+    width: 900px; /* Ajusta el ancho a tu preferencia */
+    height: 600px;
+    flex-wrap: wrap;
+    margin: 60px auto;
+}
+
+.textCont{
+    display: flex;
+    flex-direction: column;
+    width: 355px;
+    height: 304px;
+}
+
+.textCont h1{
+    margin: 0;
+    color: #1E3445;
+font-family: "Nunito",sans-serif;
+font-size: 35px;
+font-style: normal;
+font-weight: 800;
+line-height: 120%; /* 42px */
+letter-spacing: -0.7px;
+}
+
+.cardContainer{
+    width: 345px;
+    height: 223px;
+    position: absolute;
+    top: 270px;
+    padding: 5px 10px;
+}
+
+.cardContainer p{
+    margin: 20px 0;
+    font-family: "Nunito",sans-serif;
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: 120%; /* 18px */
+letter-spacing: -0.3px;
+}
+
+.description{
+    width: 910px;
+    height: 216px;   
+    position: absolute;
+    top: 550px;
+    left: 250px;
+}
+
+.description p{
+    margin: 4px 0;
+    font-family: "Nunito",sans-serif;
+font-size: 10px;
+font-style: normal;
+font-weight: 300;
+line-height: 120%; /* 18px */
+letter-spacing: -0.3px;
+}

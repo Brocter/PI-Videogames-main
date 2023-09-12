@@ -1,0 +1,7 @@
+.cardsContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Crea 3 columnas de igual tamaño */
+    grid-gap: 20px; /* Agrega un espacio de 20px entre las cards */
+    max-width: 900px; /* Limita el ancho máximo del contenedor */
+    margin: 0 auto; /* Centra el contenedor en la página */
+  }

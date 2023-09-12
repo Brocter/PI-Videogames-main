@@ -1,0 +1,19 @@
+.container{
+    width: 1300px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.number{
+    font-family: "Nunito",sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%; /* 65px */
+    letter-spacing: 0.5px;
+    color: #2245C5;
+    margin: 0 20px;
+}

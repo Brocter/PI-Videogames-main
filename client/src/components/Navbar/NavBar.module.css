@@ -1,0 +1,22 @@
+.nav{
+    width: 1300px;
+    height: 117px; 
+    background: #F89017;
+    display: flex;
+    justify-content:center;
+    padding: 0 40px;
+    border-bottom: #67849a thick outset;
+}
+
+.logoContainer{
+    display: flex;
+    align-items: center;
+    width: 650px;
+}
+
+.searchContainer{
+    display: flex;
+    align-items: center;
+    width: 650px;
+    justify-content: center;
+}

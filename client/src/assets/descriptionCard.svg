@@ -1,0 +1,28 @@
+<svg width="921" height="219" viewBox="0 0 921 219" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_40_2069)">
+<path d="M2.99536 6V3H5.99536V0H8.99536V3V6H5.99536V9H2.99536V6Z" fill="#F7FBF8"/>
+<path d="M2.99536 6V9H-4.48227e-05V6H2.99536Z" fill="#F7FBF8"/>
+<rect x="8.99536" width="900.009" height="3" fill="#F7FBF8"/>
+<path d="M915.005 6V3H912.005V0H909.005V3V6H912.005V9H915.005V6Z" fill="#F7FBF8"/>
+<path d="M915.005 6V9H918V6H915.005Z" fill="#F7FBF8"/>
+<rect y="9" width="3" height="198" fill="#F7FBF8"/>
+<rect width="912" height="210" transform="translate(3 3)" fill="#F7FBF8"/>
+<rect x="915" y="9" width="3" height="198" fill="#F7FBF8"/>
+<path d="M2.99536 210V213H5.99536V216H8.99536V213V210H5.99536V207H2.99536V210Z" fill="#F7FBF8"/>
+<path d="M2.99536 210V207H-4.48227e-05V210H2.99536Z" fill="#F7FBF8"/>
+<rect width="900.009" height="3" transform="matrix(1 0 0 -1 8.99536 216)" fill="#F7FBF8"/>
+<path d="M915.005 210V213H912.005V216H909.005V213V210H912.005V207H915.005V210Z" fill="#F7FBF8"/>
+<path d="M915.005 210V207H918V210H915.005Z" fill="#F7FBF8"/>
+</g>
+<defs>
+<filter id="filter0_d_40_2069" x="0" y="0" width="921" height="219" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="3" dy="3"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.117647 0 0 0 0 0.203922 0 0 0 0 0.270588 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_40_2069"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_40_2069" result="shape"/>
+</filter>
+</defs>
+</svg>
